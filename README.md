@@ -1,4 +1,7 @@
 # CoronaEp-Covid-19
 
-<img href="https://github.com/Alan4747/CoronaEp-Covid-19/blob/master/g1608.png"/>
-![PNG](g1608.png)
+<div>
+<img src="g1608.png" style="float: start;" width="100"/>
+<img src="image1618.png" style="float: right;" width="100"/>
+
+</div>
